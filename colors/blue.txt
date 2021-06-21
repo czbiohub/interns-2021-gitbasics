@@ -1,1 +1,2 @@
 Bright Blue,#0096FF,(0, 150, 255)
+Pastel Pink,#FF59A1,(255,89,151)
