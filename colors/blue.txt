@@ -1,1 +1,3 @@
 Bright Blue,#0096FF,(0, 150, 255)
+Terrifying Dinosaur,#8648DB,(134, 72, 219)
+
